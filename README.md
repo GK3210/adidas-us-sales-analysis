@@ -115,19 +115,19 @@ Checks that passed: Operating Profit = Total Sales x Operating Margin in every r
 
 | Product | Sales | Share | Margin |
 |---|---|---|---|
-| Men's Street Footwear | $208.8M | 23.2% | 39.7% |
+| Men's Street Footwear | $208.8M | 23.2% | 39.6% |
 | Women's Apparel | $179.0M | 19.9% | 38.3% |
 | Men's Athletic Footwear | $153.7M | 17.1% | 33.7% |
 | Women's Street Footwear | $128.0M | 14.2% | 35.2% |
-| Men's Apparel | $123.7M | 13.7% | 36.2% |
-| Women's Athletic Footwear | $106.6M | 11.8% | 36.6% |
+| Men's Apparel | $123.7M | 13.8% | 36.2% |
+| Women's Athletic Footwear | $106.6M | 11.8% | 36.5% |
 
 **By sales method**
 
 | Method | Sales | Share | Margin | Transactions | Avg sale |
 |---|---|---|---|---|---|
 | In-store | $356.6M | 39.6% | 35.8% | 1,740 | $204,968 |
-| Outlet | $295.6M | 32.8% | 36.5% | 3,017 | $97,973 |
+| Outlet | $295.6M | 32.9% | 36.5% | 3,017 | $97,973 |
 | Online | $247.7M | 27.5% | 39.0% | 4,887 | $50,680 |
 
 - Sales and profit are strongly right-skewed: the mean sale ($93,312) is about ten times the median ($9,581).
@@ -189,7 +189,7 @@ adidas-us-sales-analysis/
 |-- .gitignore
 |-- data/
 |   |-- Adidas_US_Sales_Datasets.xlsx      # raw data
-|   `-- Adidas_US_Sales_Datasets_Cleaned.xlsx       # cleaned data, removed rows, cleaning log
+|   `-- Adidas_US_Sales_Cleaned.xlsx       # cleaned data, removed rows, cleaning log
 |-- dashboard/
 |   |-- adidas_sales_dashboard.html        # interactive HTML dashboard
 |   `-- excel/Adidas_US_Sales_Dashboard.xlsx   # Excel dashboard with filters and charts
