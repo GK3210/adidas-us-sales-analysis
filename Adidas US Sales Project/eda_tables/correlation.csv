@@ -1,0 +1,6 @@
+,Price per Unit,Units Adjusted,Total Sales,Operating Profit,Operating Margin
+Price per Unit,1.0,0.25,0.44,0.39,-0.14
+Units Adjusted,0.25,1.0,0.94,0.92,-0.38
+Total Sales,0.44,0.94,1.0,0.96,-0.36
+Operating Profit,0.39,0.92,0.96,1.0,-0.21
+Operating Margin,-0.14,-0.38,-0.36,-0.21,1.0
